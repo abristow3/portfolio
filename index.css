@@ -1,0 +1,93 @@
+:root {
+    background-color: #000 !important;
+}
+
+body {
+    background-color: #000
+}
+
+#console {
+    font-family: courier, monospace;
+    color: #fff;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+#banner-div {
+    display: flex;
+    justify-content: center;
+}
+
+#banner {
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    animation: fadeIt 5s ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+p {
+  white-space: pre;
+}
+
+@keyframes fadeIt {
+    0% {
+        color: palegoldenrod;
+    }
+    25% {
+        color: gold;
+    }
+    50% {
+        color: orangered;
+    }
+    75% {
+        color: gold;
+    }
+    100% {
+        color: palegoldenrod;
+    }
+}
+
+#d {
+    color:cornflowerblue;
+}
+
+a {
+    color: #0bc;
+    text-decoration: none;
+}
+
+#a {
+    color: #0f0;
+}
+
+#c {
+    color: #0bc;
+}
+
+#b {
+    color: #ff0096;
+}
+
+#k {
+    animation: change 1s;
+}
+
+#op {
+    color: #888888
+}
+
+@keyframes change {
+    0% {
+        color: #0f0;
+    }
+    50% {
+        color: #0f0;
+    }
+    99% {
+        color: black;
+    }
+}

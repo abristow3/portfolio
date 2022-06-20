@@ -1,0 +1,42 @@
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
+
+<span id="d">AboutMe     Projects     Contact</span><!-- sjkfhskjf -->
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> cd /AboutMe <!-- sjkfhskjf -->
+<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls
+
+about_me.txt
+
+<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> cat <!-- sjkfhskjf --> about_me.txt<br/><br/>
+Hi there! My name is Alex Bristow and I am a Senior Software Developer by day, and hobbyist tinkerer by night. <!-- sjkfhskjf --> I have a passion for learning new technical related skills, and automating physical workflows with micro-controllers and micro-computers.<!-- sjkfhskjf -->
+
+I have a Master of Science in Business Analytics from Texas A&M Commerce, and am currently working on my Master of Science in Computer Science.<!-- sjkfhskjf -->
+I currently hold and use an active TS/SCI clearance. <!-- sjkfhskjf -->
+
+My skills include: <!-- sjkfhskjf -->
+
+- REST APIs <!-- sjkfhskjf -->
+- Python / Flask / FastAPI <!-- sjkfhskjf -->
+- Java / Spring <!-- sjkfhskjf -->
+- Javascript / React / Node <!-- sjkfhskjf -->
+- AWS / Docker / Docker Compose <!-- sjkfhskjf -->
+- GitLab CI / Shell Scripting <!-- sjkfhskjf -->
+- MySQL / MongoDB <!-- sjkfhskjf -->
+- Ubuntu / Alpine / Red Hat Linux <!-- sjkfhskjf -->
+
+To check out my projects, click on one of the links below:<!-- sjkfhskjf -->
+
+<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls ../Projects
+
+<span id="c"><a href="https://www.google.com"><u>PiveMind</u></a></span><!-- sjkfhskjf -->
+
+
+<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> cat <!-- sjkfhskjf --> ../Contact/contact_me.txt<br/><br/>
+You can contact me via email: alex.bristow3@gmail.com <!-- sjkfhskjf -->
+
+Or at one of the following sites: <!-- sjkfhskjf -->
+
+<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls ../Contact
+
+<span id="c"><a href="https://www.linkedin.com/in/alex-bristow-19bba392/"><u>linkedin</u> <a href="https://my.indeed.com/p/alexb-twn65nt"><u>indeed</u></span>
+
