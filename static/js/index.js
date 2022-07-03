@@ -84,20 +84,8 @@ const Typer = {
     },
 };
 
-function replaceUrls(text) {
-    const http = text.indexOf('http://');
-    const space = text.indexOf('.me ', http);
-
-    if (space !== -1) {
-      const url = text.slice(http, space - 1);
-      return text.replace(url, '<a href="' + url + '">' + url + '</a>');
-  } else {
-    return text;
-  }
-}
-
-Typer.speed = 1;
-Typer.file = 'alex.txt';
+Typer.speed = 2;
+Typer.file = document.title + ".txt";
 Typer.init();
 
 const timer = setInterval('t();', 30);

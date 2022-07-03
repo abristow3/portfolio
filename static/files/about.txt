@@ -1,6 +1,3 @@
-<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
-
-<span id="d">AboutMe     Projects     Contact</span><!-- sjkfhskjf -->
 
 <span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> cd /AboutMe <!-- sjkfhskjf -->
 <span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls
@@ -24,19 +21,7 @@ My skills include: <!-- sjkfhskjf -->
 - MySQL / MongoDB <!-- sjkfhskjf -->
 - Ubuntu / Alpine / Red Hat Linux <!-- sjkfhskjf -->
 
-To check out my projects, click on one of the links below:<!-- sjkfhskjf -->
-
-<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls ../Projects
-
-<span id="c"><a href="https://www.google.com"><u>PiveMind</u></a></span><!-- sjkfhskjf -->
 
 
-<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> cat <!-- sjkfhskjf --> ../Contact/contact_me.txt<br/><br/>
-You can contact me via email: alex.bristow3@gmail.com <!-- sjkfhskjf -->
 
-Or at one of the following sites: <!-- sjkfhskjf -->
-
-<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls ../Contact
-
-<span id="c"><a href="https://www.linkedin.com/in/alex-bristow-19bba392/"><u>linkedin</u> <a href="https://my.indeed.com/p/alexb-twn65nt"><u>indeed</u></span>
 
