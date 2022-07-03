@@ -41,3 +41,13 @@ def contact_me():
 @controller.get('/contact.txt')
 def contact_text_file():
     return send_from_directory(directory="static/files/", path='contact.txt')
+
+
+@controller.get('/pivemind')
+def pivemind():
+    return render_template('pivemind.html')
+
+
+@controller.get('/pivemind.txt')
+def pivemind_text_file():
+    return send_from_directory(directory="static/files/", path='pivemind.txt')
