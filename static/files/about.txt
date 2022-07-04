@@ -1,8 +1,4 @@
-
 <span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> cd /AboutMe <!-- sjkfhskjf -->
-<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls
-
-about_me.txt
 
 <span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> cat <!-- sjkfhskjf --> about_me.txt<br/><br/>
 Hi there! My name is Alex Bristow and I am a Senior Software Developer by day, and hobbyist tinkerer by night. <!-- sjkfhskjf --> I have a passion for learning new technical related skills, and automating physical workflows with micro-controllers and micro-computers.<!-- sjkfhskjf -->
@@ -21,7 +17,10 @@ My skills include: <!-- sjkfhskjf -->
 - MySQL / MongoDB <!-- sjkfhskjf -->
 - Ubuntu / Alpine / Red Hat Linux <!-- sjkfhskjf -->
 
+<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> cd ..
 
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
 
+<span id="d"><a>AboutMe</a> <a href="/projects"><u>Projects</u></a> <a href="/contact"><u>Contact</u></a>  <a href="/"><u>Home</u></a></span> home.txt
 
-
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span>

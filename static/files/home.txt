@@ -3,6 +3,6 @@ Hi and welcome to my portfolio. Please select a link to navigate around the site
 
 <span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
 
-<span id="d"><a href="/about"><u>AboutMe</u></a> <a href="/projects"><u>Projects</u></a> <a href="/contact"><u>Contact</u></a></span> home.txt
+<span id="d"><a href="/about"><u>AboutMe</u></a> <a href="/projects"><u>Projects</u></a> <a href="/contact"><u>Contact</u></a> Home</span> home.txt
 
 <span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span>
