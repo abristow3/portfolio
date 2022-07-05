@@ -1,0 +1,27 @@
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cd /Portfolio
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects/Portfolio</span><span id="c">$</span> cat portfolio.txt
+
+This portfolio website was inspired by CodeNerve. I decided to fork off of his repo and turn the site into a multi-page website served with Flask.
+
+Currently, this project uses:
+
+- Vanilla HTML and CSS
+- Python (Flask API)
+- JavaScript (JQuery)
+
+Source code for my portfolio website can be found here: <a href="https://github.com/abristow3/portfolio"><u>portfolio_github</u></a>
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects/Portfolio</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> ls
+
+<span id="d"><a href="/pivemind"><u>PiveMind</u></a> <a>Portfolio</a> <a href="/scraper"><u>Web_Scraper</u></a></span> projects.txt
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
+
+<span id="d"><a href="/about"><u>AboutMe</u></a> <a href="/projects"><u>Projects</u></a> <a href="/contact"><u>Contact</u></a>  <a href="/"><u>Home</u></a></span> home.txt
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span>

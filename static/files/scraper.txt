@@ -1,0 +1,31 @@
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cd /Web_Scraper
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects/Web_Scraper</span><span id="c">$</span> cat scraper.txt
+
+My web scraper project was for a coding competition submission. I spent a total of 4 hours working on it, and then submitted it regardless of the state it was in.
+
+The web scraper uses:
+- Vanilla HTML and CSS <!-- sjkfhskjf -->
+- Python (Beautiful Soup 4, Flask API)
+
+The scraper was made to collect post IDs, user_names, post_dates, and post_content from a forum board website.
+
+This information is then downloaded as either a .json or .csv file depending on which the user selects.
+
+Everytime a file format selection is made, the scraper re-scrapes the website in order to have the most up-to-date post information available.
+
+Source code for the scraper can be found here: <a href="https://github.com/abristow3/scraper"><u>scraper_github</u></a>
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects/Web_Scraper</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> ls
+
+<span id="d"><a href="/pivemind"><u>PiveMind</u></a> <a href="/portfolio"><u>Portfolio</u></a> <a>Web_Scraper</a></span> projects.txt
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
+
+<span id="d"><a href="/about"><u>AboutMe</u></a> <a href="/projects"><u>Projects</u></a> <a href="/contact"><u>Contact</u></a>  <a href="/"><u>Home</u></a></span> home.txt
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span>

@@ -2,9 +2,9 @@
 
 <span id="a">alex@bristow</span>:<span id="b">/Contact</span><span id="c">$</span> cat contact.txt
 
-You can contact me via email: alex.bristow3@gmail.com <!-- sjkfhskjf -->
+You can contact me via email: alex.bristow3@gmail.com
 
-Or at one of the following sites: <!-- sjkfhskjf -->
+Or at one of the following sites:
 
 <span id="a">alex@bristow</span>:<span id="b">/Contact</span><span id="c">$</span> ls
 

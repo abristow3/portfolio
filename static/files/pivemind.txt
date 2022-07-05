@@ -1,0 +1,40 @@
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cd /PiveMind
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects/PiveMind</span><span id="c">$</span> cat pivemind.txt
+
+PiveMind is a personal home assistant project that helps automate workflows inside my workshop, as well as perform general everyday tasks.
+It lives on a Raspberry Pi 4 Model B board, and can support a mesh network of boards.
+
+Currently, PiveMind incorporates several ML models which help it achieve intent mapping, text-to-speech, and speech recognition.
+
+PiveMind currently supports:
+
+- Google Calendar <!-- sjkfhskjf -->
+- Wikipedia <!-- sjkfhskjf -->
+- Youtube <!-- sjkfhskjf -->
+- Telling bad jokes <!-- sjkfhskjf -->
+- Spotify <!-- sjkfhskjf -->
+- Interacts with various machines in my workshop <!-- sjkfhskjf -->
+- Blast-gate control for dust collection <!-- sjkfhskjf -->
+
+PiveMind is available both online and offline uses. (Offline modules are limited).
+
+PiveMind makes 0 API calls to the ML models used, and they actually are deployed locally on the board in order to provide as much data privacy as possible for users.
+
+Currently, the PiveMind source code is private and is not available for viewing.
+
+Feel free to take a look at my other projects, or continue exploring the website.
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects/PiveMind</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> ls
+
+<span id="d"><a>PiveMind</a> <a href="/portfolio"><u>Portfolio</u></a> <a href="/scraper"><u>Web_Scraper</u></a></span> projects.txt
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
+
+<span id="d"><a href="/about"><u>AboutMe</u></a> <a href="/projects"><u>Projects</u></a> <a href="/contact"><u>Contact</u></a>  <a href="/"><u>Home</u></a></span> home.txt
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span>
