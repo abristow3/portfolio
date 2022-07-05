@@ -1,5 +1,17 @@
-To check out my projects, click on one of the links below:<!-- sjkfhskjf -->
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> cd /Projects
 
-<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls ../Projects
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cat projects.txt
 
-<span id="c"><a href="https://www.google.com"><u>PiveMind</u></a></span><!-- sjkfhskjf -->
+To check out my projects, click on one of the links below:
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> ls
+
+<span id="d"><a href="/pivemind"><u>PiveMind</u></a> <a href="/portfolio"><u>Portfolio</u></a> <a href="/scraper"><u>Web_Scraper</u></a></span> projects.txt
+
+<span id="a">alex@bristow</span>:<span id="b">/Projects</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
+
+<span id="d"><a href="/about"><u>AboutMe</u></a> <a>Projects</a> <a href="/contact"><u>Contact</u></a>  <a href="/"><u>Home</u></a></span> home.txt
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span>

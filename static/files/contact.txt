@@ -1,8 +1,19 @@
-<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> cat <!-- sjkfhskjf --> ../Contact/contact_me.txt<br/><br/>
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> cd /Contact <!-- sjkfhskjf -->
+
+<span id="a">alex@bristow</span>:<span id="b">/Contact</span><span id="c">$</span> cat contact.txt
+
 You can contact me via email: alex.bristow3@gmail.com <!-- sjkfhskjf -->
 
 Or at one of the following sites: <!-- sjkfhskjf -->
 
-<span id="a">alex@bristow</span>:<span id="b">/AboutMe</span><span id="c">$</span> ls ../Contact
+<span id="a">alex@bristow</span>:<span id="b">/Contact</span><span id="c">$</span> ls
 
-<span id="c"><a href="https://www.linkedin.com/in/alex-bristow-19bba392/"><u>linkedin</u> <a href="https://my.indeed.com/p/alexb-twn65nt"><u>indeed</u></span>
+<span id="d"><a href="https://www.linkedin.com/in/alex-bristow-19bba392/"><u>linkedin</u></a> <a href="https://my.indeed.com/p/alexb-twn65nt"><u>indeed</u></a></span> contact.txt
+
+<span id="a">alex@bristow</span>:<span id="b">/Contact</span><span id="c">$</span> cd ..
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span> ls
+
+<span id="d"><a href="/about"><u>AboutMe</u></a> <a href="/projects"><u>Projects</u></a> <a>Contact</a>  <a href="/"><u>Home</u></a></span> home.txt
+
+<span id="a">alex@bristow</span>:<span id="b">~</span><span id="c">$</span>

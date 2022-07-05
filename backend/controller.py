@@ -51,3 +51,23 @@ def pivemind():
 @controller.get('/pivemind.txt')
 def pivemind_text_file():
     return send_from_directory(directory="static/files/", path='pivemind.txt')
+
+
+@controller.get('/portfolio')
+def portfolio():
+    return render_template('portfolio.html')
+
+
+@controller.get('/portfolio.txt')
+def portfolio_text_file():
+    return send_from_directory(directory="static/files/", path='portfolio.txt')
+
+
+@controller.get('/scraper')
+def scraper():
+    return render_template('scraper.html')
+
+
+@controller.get('/scraper.txt')
+def scraper_text_file():
+    return send_from_directory(directory="static/files/", path='scraper.txt')
