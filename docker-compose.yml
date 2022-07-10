@@ -1,0 +1,8 @@
+version: "3.5"
+services:
+ portfolio-site:
+  image: portfolio:latest
+  container_name: portfolio-site
+  ports:
+   - "8080:9181"
+  entrypoint: python3 -u app.py
